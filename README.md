@@ -11,7 +11,7 @@ javac KalmanFilterClient.java
 ```
 Run Code
 ```
-# example created wit the input Data cration tool using 2 dimensions with a dynamic x component (constant velocity of 5) and stationary y component
+# example created with the input Data cration tool using 2 dimensions with a dynamic x component (constant velocity of 5) and stationary y component
 java KalmanFilterClient -i ../inputDataCreationTool/2dVelocity5For50.txt
 ```
 
