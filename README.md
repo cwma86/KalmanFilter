@@ -18,7 +18,8 @@ java KalmanFilterClient -i ../inputDataCreationTool/2dVelocity5For50.txt
 ### Prerequisites
 
 Java version 1.8
-[ASCII-DATA 1.4.0] (https://github.com/MitchTalmadge/ASCII-Data)
+
+[ASCII-DATA 1.4.0](https://github.com/MitchTalmadge/ASCII-Data)
 
 ## Authors
 
